@@ -8,7 +8,20 @@ UA 342	15:20	Los Angeles	Boston	20:35
 UA 22	11:40	Orlando	San Fransisco	16:35
 UA 102	12:45	Houston	Tampa	18:20
 
-
+<TABLE>
+   <TR>
+      <TD>flight-number</TD>
+      <TD>Data 2</TD>
+   </TR>
+   <TR>
+      <TD>depart</TD>
+      <TD>Data 4</TD>
+   </TR>
+   <TR>
+      <TD>from</TD>
+      <TD>Data 6</TD>
+   </TR>
+</TABLE>
 
 
 
