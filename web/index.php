@@ -10,7 +10,7 @@ UA 102	12:45	Houston	Tampa	18:20
 
 <TABLE>
    <TR>
-      <TD>flight-number</TD>
+      <TD><p>flight-number</p></TD>
       <TD>Data 2</TD>
    </TR>
    <TR>
