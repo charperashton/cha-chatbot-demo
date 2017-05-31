@@ -34,3 +34,6 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
